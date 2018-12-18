@@ -10,7 +10,7 @@ Example Question: The ______ of an HTML document is the part that is not display
 
 2. **Quote the article** to explain the difference between the `<title>` element and the `<h1>` element. 
 
-3. You can put elements inside other elements too — this is called _______.
+3. Write the code for specifying your document's character encoding.
 
 4. Write the code for specifying your document's character encoding.
 
