@@ -4,7 +4,7 @@
 
 ### Questions
 
-Example Question: The ______ of an HTML document is the part that is not displayed in the web browser when the page is loaded. 
+Sample Question 1: The ______ of an HTML document is the part that is not displayed in the web browser when the page is loaded. 
 
 1. What is the head's job?
 
@@ -38,10 +38,40 @@ Example Question: The ______ of an HTML document is the part that is not display
 
 14. Explain non-semantic wrappers.
 
+**Read [Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) and answer the following questions below.**
+
+Sample Question 2: HTML (Hypertext Markup Language) is not a programming language; it is a ______ ________ used to tell your browser how to structure the web pages you visit.
+
+15. *True or False* - Tags in HTML are case-sensitive
+
+16. Explain the **4** main parts of a typical element.
+
+17. You can put elements inside other elements too — this is called _______.
+
+18. Explain the difference between block-level elements and inline elements.
+
+19. What is the *only* example of an empty element in the article.
+
+20. _________ contain extra information about the element which you don't want to appear in the actual content. 
+
+21. Why is it advised to always include the attribute quotes?
+
+22. If you've used one type of quote in your HTML, you (**can**/**can't**) include the other type of quote without causing any problems.
+
+23. List the **6** main elements/tags that make up the anatomy of an HTML document.
+
+24. What is the **one-word answer** for why to use a lot of whitespace?
+
+25. In order to use `<`, `>`, `"`, `'`, and `&` in our HTML document, we have to use _________ __________.
+
+26. Copy the following line of code, but now you have to **comment it out**: ````<p>Please comment this element out.</p>````
+
+27. *True or False* - HTML and CSS don't go very well together, as you'll soon discover.
+
 ### Answers
 Type your answers here:
 
-Example Answer: *head*
+Sample Answer 1: *head*
 
 1. The head of an HTML document is the part that is not displayed in the web browser when the page is loaded. It contains information such as the page <title>, links to CSS (if you choose to style your HTML content with CSS), links to custom favicons, and other metadata (data about the HTML, such as the author, and important keywords that describe the document.)
 
@@ -71,3 +101,5 @@ The `<title>` element is metadata that represents the title of the overall HTML 
 13. (1) Header, (2) navigation bar, (3) main content, (4) sidebar, (5) footer.
 
 14. Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the `<div>` and `<span>` elements. You should use these preferably with a suitable class attribute, to provide some kind of label for them so they can be easily targeted.
+
+Sample Answer 2: 
