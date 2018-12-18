@@ -1,4 +1,4 @@
-# Week 1 Practice
+# Chapter 1 Practice
 
 **Read [What’s in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) and answer the following questions below.**
 
