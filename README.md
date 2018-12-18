@@ -102,4 +102,30 @@ The `<title>` element is metadata that represents the title of the overall HTML 
 
 14. Sometimes you'll come across a situation where you can't find an ideal semantic element to group some items together or wrap some content. Sometimes you might want to just group a set of elements together to affect them all as a single entity with some CSS or JavaScript. For cases like these, HTML provides the `<div>` and `<span>` elements. You should use these preferably with a suitable class attribute, to provide some kind of label for them so they can be easily targeted.
 
-Sample Answer 2: 
+Sample Answer 2: *markup language*
+
+15. False
+
+16. (1) The opening tag, (2) the closing tag, (3) the content, and (4) the element.
+
+17. Nesting
+
+18. Block-level elements form a visible block on a page — they will appear on a new line from whatever content went before it, and any content that goes after it will also appear on a new line. Block-level elements tend to be structural elements on the page that represent, for example, paragraphs, lists, navigation menus, footers, etc. A block-level element wouldn't be nested inside an inline element, but it might be nested inside another block-level element. Inline elements are those that are contained within block-level elements and surround only small parts of the document’s content, not entire paragraphs and groupings of content. An inline element will not cause a new line to appear in the document; they would normally appear inside a paragraph of text, for example an `<a>` element (hyperlink) or emphasis elements such as `<em>` or `<strong>`.
+
+19. The `<img>` element
+
+20. Attributes
+
+21. When you look around the World Wide Web, you'll come across all kind of strange markup styles, including attribute values without quotes. This is allowable in certain circumstances, but will break your markup in others.
+
+22. Can
+
+23. (1) The doctype, (2) the `<html>` element, (3) the `<head>` element, (4) `<meta charset="utf-8">`, (5) the `<title>` element, and (6) the `<body>` element.
+
+24. Readability
+
+25. Character references
+
+26. `<!--<p>Please comment this element out.</p>-->`
+
+27. False
